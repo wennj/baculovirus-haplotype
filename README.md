@@ -1,3 +1,3 @@
-<img align="right" src="https://github.com/wennj/plasmid-collapse-gene-loss-unicycler-galaxy/blob/main/pcglug_logo.png" width="128"/>  
+<img align="right" src="https://github.com/wennj/baculovirus-haplotype/blob/main/baculoviruses_in_space_.png" width="128"/>  
 
-# baculovirus-haplotype
+# Determination of baculovirus haplotypes by nanopore sequencing and SNP linkage
